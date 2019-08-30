@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER":"Proactiefboss",
+        "MONGO_PASSWORD":"Reminisce2009",
+        "MONGO_DB":"items-react-dev"
+    }
+}
